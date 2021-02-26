@@ -9,7 +9,6 @@
 #include <io.h>
 #include <fcntl.h>
 
-
 //Ορισμός κωδικών χρωμάτων για ευκολότερη χρήση μέσα σε εντολές αλλαγής χρώματος της κονσόλας
 #define COLOR_RED         4
 #define COLOR_GREEN       2
