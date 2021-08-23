@@ -1,6 +1,11 @@
 # sailproj: A console sailing game written in C
 
-This is a local multiplayer game for 1-4 players, written entirely in a single C file for the purposes of the lesson "Structured Programming", which runs on the windows console.
+This is a local multiplayer game for 1-4 players for the purposes of the lesson "Structured Programming".
+It uses the windows console to output the game to the player.
+Players can choose between 3 different ships (each with a unique advantage) and 3 difficulty levels (that affect the enviroment).
+Winds can influence the ship's movement, making it harder to reach the goal.
+
+**Note that the code comments are in Greek.**
 
 ## Specifications for the game (as given by the lesson's instructor)
 
@@ -18,5 +23,6 @@ Optionally, each player's boats can collide with each other.
 Whoever reaches the finish line first, completing a full cruising around the island.
 
 ## Programming enviroments and compilers used:
-Code editor: Visual Studio Code with the C/C++ extension
-Compiler: GCC for Windows
+**Code editor:** Visual Studio Code with the C/C++ extension
+
+**Compiler:** GCC for Windows
