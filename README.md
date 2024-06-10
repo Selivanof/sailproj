@@ -1,3 +1,4 @@
+**Note:** This project **does NOT** work correctly on the latest versions of Windows 10/11 due to major changes in the CMD/Terminal. Items are probably **NOT** going to be desplayed correctly unless run with an older version of the Windows CMD.
 # sailproj: A console sailing game written in C
 
 This is a local multiplayer game for 1-4 players for the purposes of the lesson "Structured Programming".
